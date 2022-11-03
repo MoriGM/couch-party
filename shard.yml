@@ -1,0 +1,13 @@
+name: couch-party
+version: 0.1.0
+
+authors:
+  - MoriGM <30366747+MoriGM@users.noreply.github.com>
+
+targets:
+  couch-party:
+    main: src/couch-party.cr
+
+crystal: 1.6.1
+
+license: MIT
